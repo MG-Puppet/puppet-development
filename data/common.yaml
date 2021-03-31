@@ -1,0 +1,3 @@
+  classes:
+    - ntp
+  ntp::servers: "be.pool.ntp.org"
